@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jksitu&label=Profile%20views&color=0e75b6&style=flat" alt="jksitu" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 👨 Software Engineer sharing about my journey and learning in tech
+
+- 📝 Studied Software Engineering at Manchester Metropolitan University
 
 - 🌱 I’m currently learning **Web Development**
+
+- 📖 Making coding projects in my free time
 
 - ⚡ Fun fact **I like playing sports**
 
